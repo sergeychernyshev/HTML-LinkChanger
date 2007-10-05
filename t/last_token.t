@@ -1,6 +1,6 @@
 #!/bin/perl
 
-# Version: $Id: last_token.t,v 1.1 2007/10/05 15:26:00 sergey Exp $
+# Version: $Id$
 
 use strict;
 

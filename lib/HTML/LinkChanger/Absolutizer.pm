@@ -17,7 +17,7 @@ require HTML::LinkChanger;
 @EXPORT = qw(
 	
 );
-$VERSION = sprintf("1.%d", q$Rev: 7 $ =~ /(\d+)/);
+$VERSION = sprintf("1.%d", q$Rev$ =~ /(\d+)/);
 
 # Preloaded methods go here.
 
