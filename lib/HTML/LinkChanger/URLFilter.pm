@@ -15,7 +15,7 @@ require AutoLoader;
 @EXPORT = qw(
 	
 );
-$VERSION = sprintf("1.%d", q$Rev$ =~ /(\d+)/);
+$VERSION = sprintf("2.%d", q$Rev$ =~ /(\d+)/);
 
 # Preloaded methods go here.
 
